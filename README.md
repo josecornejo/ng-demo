@@ -1,4 +1,4 @@
 ng-demo
 =======
 
-Aplicación didactica de AngularJS
+Aplicación didactica de AngularJS.
